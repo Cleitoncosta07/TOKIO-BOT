@@ -104,7 +104,6 @@ Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado na estratégia de 
 <details>
 <summary><strong>📦 Passo a passo da instalação</strong></summary>
 
-```bash
 git clone https://github.com/cleitoncosta07/TOKIO-BOT.git
 cd TOKIO-BOT
 npm install
@@ -116,7 +115,7 @@ npm install
 
 ```bash
 npm start
-
+```
 ## 🔌 Conectando o Bot ao WhatsApp
 
 <details>
@@ -131,7 +130,7 @@ npm start
    - No WhatsApp, vá em **Configurações → Aparelhos Conectados → Conectar com Número de Telefone** e insira o código.
 </details>
 
----
+***
 
 ## 🔄 Atualizando o TOKIO Bot
 
@@ -142,7 +141,7 @@ npm start
 cd TOKIO-BOT
 git pull
 ## 💻 Tutoriais de Instalação por Plataforma
-
+```
 <details>
 <summary><strong>🖥️ Guia rápido por plataforma</strong></summary>
 
@@ -165,6 +164,11 @@ git pull
 <details>
 <summary><strong>📜 Condições de uso do projeto</strong></summary>
 
+- **Uso livre**: Você pode usar, editar e distribuir o TOKIO Bot para uso pessoal ou comunitário.  
+- **Nada de venda**: É proibido vender o TOKIO Bot ou qualquer versão modificada.  
+- **Mantenha os créditos**: A remoção total dos créditos do autor (**Cleiton Costa**) é proibida.  
+- **Uso responsável**: Siga as diretrizes de uso e segurança do WhatsApp.
+</details>
 - **Uso livre**: Você pode usar, editar e distribuir o TOKIO Bot para uso pessoal ou comunitário.  
 - **Nada de venda**: É proibido vender o TOKIO Bot ou qualquer versão modificada.  
 - **Mantenha os créditos**: A remoção total dos créditos do autor (**Cleiton Costa**) é proibida.  
