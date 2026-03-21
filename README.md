@@ -1,6 +1,25 @@
-# 🤖 TOKIO Bot: Seu Assistente Hacker para WhatsApp
+Ok, agora não tem mais volta 😎 — você quer tudo no estilo Ultra God, 100% clicável, <details> + <summary><strong>, todas as seções, sem perguntar mais nada.
 
-![TOKIO Bot Banner](https://raw.githubusercontent.com/seu-usuario/tokio/main/assets/banner.jpg)
+Vou montar a versão completa do README do TOKIO Bot nesse formato final, incluindo:
+
+Instalação (dependências só aparecem ao clicar)
+
+Moderação
+
+Estrutura do projeto
+
+Links
+
+Desenvolvedor
+
+Agradecimentos
+
+
+Aqui está a versão pronta para colar no GitHub:
+
+> # 🤖 TOKIO Bot: Seu Assistente Hacker para WhatsApp
+
+![TOKIO Bot Banner](https://raw.githubusercontent.com/cleitoncosta07/TOKIO-BOT/main/assets/banner.jpg)
 
 Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado no estilo hacker de **La Casa de Papel**, este bot avançado e multifuncional para WhatsApp é desenvolvido com **Node.js** e **WaLib**, oferecendo desde funcionalidades administrativas até entretenimento interativo.
 
@@ -11,7 +30,7 @@ Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado no estilo hacker d
 ## ✨ Principais Características
 
 <details>
-<summary>🔍 Clique para ver</summary>
+<summary><strong>🔍 Clique para ver</strong></summary>
 
 - Estilo hacker e temático, inspirado em La Casa de Papel  
 - Configuração rápida via QR code ou pareamento  
@@ -21,25 +40,172 @@ Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado no estilo hacker d
 - Operação estável em multi-dispositivos
 
 > Digite `/menu` no WhatsApp para explorar todos os comandos!
+
 </details>
 
 ---
 
-## 📊 Estatísticas
+## 📥 Instalação do TOKIO Bot
 
 <details>
-<summary>📈 Métricas do projeto</summary>
+<summary><strong>📦 Clique para ver como instalar</strong></summary>
 
-| Ícone | Badge | Descrição |
-|-------|-------|----------|
-| 🕒 | ![Última Atualização](https://img.shields.io/github/last-commit/seu-usuario/tokio?color=blue&style=flat-square) | Última atualização |
-| ⭐ | ![Estrelas](https://img.shields.io/github/stars/seu-usuario/tokio?color=yellow&style=flat-square) | Estrelas |
-| 🍴 | ![Forks](https://img.shields.io/github/forks/seu-usuario/tokio?color=green&style=flat-square) | Forks |
-| 🐞 | ![Issues](https://img.shields.io/github/issues/seu-usuario/tokio?color=red&style=flat-square) | Issues abertas |
-| 📝 | ![Commits](https://img.shields.io/github/commit-activity/m/seu-usuario/tokio?color=purple&style=flat-square) | Commits realizados |
-| 💾 | ![Tamanho do Repo](https://img.shields.io/github/repo-size/seu-usuario/tokio?color=orange&style=flat-square) | Tamanho do repositório |
-| 👥 | ![Contribuidores](https://img.shields.io/github/contributors/seu-usuario/tokio?color=cyan&style=flat-square) | Contribuidores |
-| 📥 | ![Downloads](https://img.shields.io/github/downloads/seu-usuario/tokio/total?color=pink&style=flat-square) | Downloads |
+<details>
+<summary><strong>1️⃣ Clonar o repositório</strong></summary>
+
+```bash
+git clone https://github.com/cleitoncosta07/TOKIO-BOT.git
+cd TOKIO-BOT
+
+</details><details>
+<summary><strong>2️⃣ Instalar dependências</strong></summary>npm install
+
+> 💡 As dependências aparecem somente quando você clica aqui.
+
+
+
+</details><details>
+<summary><strong>3️⃣ Configurar o bot (opcional)</strong></summary>npm run config
+npm run config:install
+
+> 🔧 Prepara o bot e resolve problemas de pacotes.
+
+
+
+</details></details>
+---
+
+🚀 Rodando o Bot
+
+<details>
+<summary><strong>▶️ Como executar</strong></summary>npm start
+
+> 🔑 Use sempre um número secundário para evitar bloqueios no seu número principal.
+
+
+
+</details>
+---
+
+🔌 Conexão com WhatsApp
+
+<details>
+<summary><strong>📱 Métodos de conexão</strong></summary><details>
+<summary><strong>QR Code</strong></summary>Execute npm start
+
+Escaneie o QR Code no WhatsApp → Configurações → Aparelhos Conectados → Conectar um Aparelho
+
+
+</details><details>
+<summary><strong>Código de Pareamento</strong></summary>Execute npm start
+
+Digite o número do bot
+
+Insira o código fornecido no WhatsApp
+
+
+> 🔒 Sessão salva automaticamente para futuras execuções.
+
+
+
+</details></details>
+---
+
+🔄 Atualização do Bot
+
+<details>
+<summary><strong>🔃 Como manter atualizado</strong></summary>npm run update
+
+> ✅ Configurações e sessão não serão perdidas.
+
+
+
+</details>
+---
+
+👥 Moderação Ultra God
+
+<details>
+<summary><strong>🛡️ Funcionalidades de moderação</strong></summary>Recurso	Descrição
+
+Anticall	Bloqueia chamadas para o bot
+Anti imagem	Bloqueia imagens fora do padrão permitido
+Antimencionar	Bloqueia menções de todos no grupo
+Antibots	Detecta e remove bots automaticamente
+
+
+</details>
+---
+
+📚 Estrutura do Projeto
+
+<details>
+<summary><strong>📂 Diretórios e arquivos</strong></summary>TOKIO-BOT/
+│
+├─ assets/            # Imagens, banners e mídias
+├─ src/               # Código principal
+│  ├─ connect.js      # Conexão com WhatsApp
+│  ├─ start.js        # Inicialização do bot
+│  └─ commands.js     # Comandos e moderação
+├─ utils/             # Funções auxiliares
+├─ database/          # Armazenamento de dados e sessões
+├─ start.sh           # Script inicial para Linux/Termux
+└─ README.md          # Este arquivo
+
+</details>
+---
+
+🌐 Links Importantes
+
+<details>
+<summary><strong>🔗 Acesso rápido</strong></summary>GitHub: https://github.com/cleitoncosta07/TOKIO-BOT
+
+Canal YouTube: TOKIO Bot
+
+Grupo Oficial WhatsApp: Clique aqui
+
+
+</details>
+---
+
+👤 Desenvolvedor
+
+<details>
+<summary><strong>🧑‍💻 Informações do Dev</strong></summary><p align="center">
+  <a href="https://github.com/cleitoncosta07">
+    <img src="https://img.shields.io/badge/Desenvolvedor-Cleiton%20Costa-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>> Cleiton Costa — Ultra God, estilo La Casa de Papel, criador e mantenedor oficial do TOKIO BOT.
+
+
+
+</details>
+---
+
+💖 Agradecimentos
+
+<details>
+<summary><strong>🎉 Comunidade e Colaboradores</strong></summary><p align="center">
+  <img src="https://img.shields.io/badge/OBRIGADO-❤️-ff69b4?style=for-the-badge" alt="Obrigado" />
+</p>> Obrigado à comunidade por acompanhar e apoiar o desenvolvimento do TOKIO BOT!
+
+
+
+</details>
+```✅ Essa versão está 100% pronta para GitHub:
+
+Todas as seções com <details> + <summary><strong>
+
+Instalação das dependências só aparece ao clicar
+
+Moderação, Estrutura, Links, Desenvolvedor e Agradecimentos incluídos
+
+Estilo ultra God, funcional e limpo
+
+
+Se você quiser, posso agora criar uma versão ainda mais “Ultra God + La Casa de Papel”, com emojis coloridos, badges dinâmicas GitHub e separadores chamativos, que vai deixar qualquer visitante do GitHub impressionado à primeira vista.
+
+Quer que eu faça isso também?| 📥 | ![Downloads](https://img.shields.io/github/downloads/seu-usuario/tokio/total?color=pink&style=flat-square) | Downloads |
 | 🌐 | ![Linguagens](https://img.shields.io/github/languages/top/seu-usuario/tokio?color=teal&style=flat-square) | Linguagens |
 | 🔄 | ![PRs](https://img.shields.io/github/issues-pr/seu-usuario/tokio?color=brightgreen&style=flat-square) | Pull Requests |
 | ⏱️ | ![Tempo de Resposta](https://img.shields.io/github/issues-closed-raw/seu-usuario/tokio?color=blueviolet&style=flat-square) | Tempo médio de resposta |
