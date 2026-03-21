@@ -1,59 +1,100 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cleitoncosta07/TOKIO-BOT/main/assets/menu.jpg" width="200" style="border-radius: 50%;" />
-</p>
+# 🤖 TOKIO Bot: Seu Assistente Hacker para WhatsApp
 
-<h1 align="center">🔥 TOKIO BOT - Ultra God La Casa de Papel 🔥</h1>
+![TOKIO Bot Banner](https://raw.githubusercontent.com/seu-usuario/tokio/main/assets/banner.jpg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ATIVO-success?style=for-the-badge" alt="Status: Ativo" />
-  <img src="https://img.shields.io/github/stars/cleitoncosta07/TOKIO-BOT?style=for-the-badge&color=yellow&label=Estrelas" alt="Estrelas" />
-  <img src="https://img.shields.io/github/forks/cleitoncosta07/TOKIO-BOT?style=for-the-badge&color=blue&label=Forks" alt="Forks" />
-</p>
+Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado no estilo hacker de **La Casa de Papel**, este bot avançado e multifuncional para WhatsApp é desenvolvido com **Node.js** e **WaLib**, oferecendo desde funcionalidades administrativas até entretenimento interativo.
 
-<p align="center"><i>O bot mais poderoso e completo de WhatsApp, Ultra God, estilo La Casa de Papel.</i></p>
+> ⚠️ **Aviso**: Projeto open-source, **não permitido venda ou remoção de créditos**.
 
 ---
 
-## 📌 Início Rápido
+## ✨ Principais Características
 
 <details>
-<summary>⚡ Instalação e Primeiros Passos</summary>
+<summary>🔍 Clique para ver</summary>
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/cleitoncosta07/TOKIO-BOT.git
-cd TOKIO-BOT
+- Estilo hacker e temático, inspirado em La Casa de Papel  
+- Configuração rápida via QR code ou pareamento  
+- Comandos de moderação, utilitários e diversão  
+- Compatível com Windows, Linux, macOS, Termux e Pterodactyl  
+- Atualizações constantes e segurança reforçada  
+- Operação estável em multi-dispositivos
 
-2. Instale as dependências:
+> Digite `/menu` no WhatsApp para explorar todos os comandos!
+</details>
 
+---
 
+## 📊 Estatísticas
 
-npm install
+<details>
+<summary>📈 Métricas do projeto</summary>
 
-3. Inicie o bot:
+| Ícone | Badge | Descrição |
+|-------|-------|----------|
+| 🕒 | ![Última Atualização](https://img.shields.io/github/last-commit/seu-usuario/tokio?color=blue&style=flat-square) | Última atualização |
+| ⭐ | ![Estrelas](https://img.shields.io/github/stars/seu-usuario/tokio?color=yellow&style=flat-square) | Estrelas |
+| 🍴 | ![Forks](https://img.shields.io/github/forks/seu-usuario/tokio?color=green&style=flat-square) | Forks |
+| 🐞 | ![Issues](https://img.shields.io/github/issues/seu-usuario/tokio?color=red&style=flat-square) | Issues abertas |
+| 📝 | ![Commits](https://img.shields.io/github/commit-activity/m/seu-usuario/tokio?color=purple&style=flat-square) | Commits realizados |
+| 💾 | ![Tamanho do Repo](https://img.shields.io/github/repo-size/seu-usuario/tokio?color=orange&style=flat-square) | Tamanho do repositório |
+| 👥 | ![Contribuidores](https://img.shields.io/github/contributors/seu-usuario/tokio?color=cyan&style=flat-square) | Contribuidores |
+| 📥 | ![Downloads](https://img.shields.io/github/downloads/seu-usuario/tokio/total?color=pink&style=flat-square) | Downloads |
+| 🌐 | ![Linguagens](https://img.shields.io/github/languages/top/seu-usuario/tokio?color=teal&style=flat-square) | Linguagens |
+| 🔄 | ![PRs](https://img.shields.io/github/issues-pr/seu-usuario/tokio?color=brightgreen&style=flat-square) | Pull Requests |
+| ⏱️ | ![Tempo de Resposta](https://img.shields.io/github/issues-closed-raw/seu-usuario/tokio?color=blueviolet&style=flat-square) | Tempo médio de resposta |
+| 📜 | ![Licença](https://img.shields.io/badge/licença-Copyright-red?style=flat-square) | Direitos autorais |
+| ✅ | ![Status](https://img.shields.io/badge/STATUS-ATIVO-success?style=flat-square) | Projeto ativo |
 
-
-
-sh start.sh
-
-> ⚠️ Certifique-se de ter Node.js LTS, FFmpeg e Git instalados.
-
-
+📈 **Contador de visitas**:  
+![Visitas](https://count.getloli.com/@tokio-bot?name=tokio-bot&theme=booru-lewd&padding=8&offset=0&align=top&scale=2&pixelated=1&darkmode=1)
 
 </details>
+
 ---
 
-📱 Conexão com WhatsApp
+## 📢 Comunidade
 
 <details>
-<summary>🔗 Como conectar</summary>1. Escolha "Conectar via QR Code" ou "Conectar via Código" no menu do bot.
+<summary>👥 Entre no grupo oficial</summary>
 
+[![Grupo WhatsApp](https://img.shields.io/badge/Entrar-WhatsApp-25D366?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/seu-link-aqui)
 
-2. Escaneie o QR Code com o WhatsApp ou insira o código gerado.
+</details>
 
+---
 
-3. O bot estará pronto para rodar e moderar automaticamente.
+## 📜 Índice
 
+<details>
+<summary>📋 Navegue pelo README</summary>
+
+1. [Primeiros Passos](#-primeiros-passos)  
+2. [Pré-requisitos](#-pré-requisitos)  
+3. [Instalação](#-instalação)  
+4. [Rodando o Bot](#-rodando-o-bot)  
+5. [Conectando ao WhatsApp](#-conectando-ao-whatsapp)  
+6. [Atualizações](#-atualizações)  
+7. [Tutoriais por Plataforma](#-tutoriais-por-plataforma)  
+8. [FAQ](#-faq)  
+9. [Apoie o Projeto](#-apoie-o-projeto)  
+10. [Licença](#-licença)  
+11. [Sobre o Criador](#-sobre-o-criador)
+
+</details>
+
+---
+
+## 🚀 Primeiros Passos
+
+<details>
+<summary>⚡ Guia rápido</summary>
+
+1. **Instale Node.js ≥18 e Git**  
+2. **Clone o repositório**:  
+```bash
+git clone https://github.com/seu-usuario/tokio.git
+cd tokio
 
 
 </details>
