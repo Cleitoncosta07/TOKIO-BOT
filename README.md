@@ -8,8 +8,6 @@ Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado na estratégia de 
 
 > ⚠️ **Aviso de Segurança**: Projeto open-source protegido por direitos autorais. A **venda** ou a **remoção dos créditos** do autor (**Cleiton Costa**) é estritamente proibida.
 
----
-
 ## ✨ Principais Características do Plano
 
 <details>
@@ -22,8 +20,6 @@ Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado na estratégia de 
 
 > 💡 Após a conexão, digite `/menu` no chat.
 </details>
-
----
 
 ## 📊 Estatísticas Detalhadas da Operação
 
@@ -69,8 +65,6 @@ Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado na estratégia de 
 10. [❔ FAQ Avançado e Dúvidas Frequentes](#-faq-avançado-e-dúvidas-frequentes)
 </details>
 
----
-
 ## 🚀 Primeiros Passos: Guia Rápido
 
 <details>
@@ -81,8 +75,6 @@ Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado na estratégia de 
 3. Use um **número de telefone secundário** para o bot.  
 4. Após a conexão, digite `/menu` no WhatsApp para ver os comandos.
 </details>
-
----
 
 ## 📋 Pré-requisitos Essenciais
 
@@ -96,8 +88,6 @@ Bem-vindo ao repositório oficial do **TOKIO Bot**! Inspirado na estratégia de 
 - **Dispositivo compatível** (Windows, Linux, macOS, Termux ou Pterodactyl).  
 - **Recursos mínimos de hardware**: 256MB de RAM e 256MB de armazenamento; recomendado 512MB de RAM e 512MB de espaço.
 </details>
-
----
 
 ## 📥 Instalação do TOKIO Bot
 
@@ -116,6 +106,7 @@ npm install
 ```bash
 npm start
 ```
+
 ## 🔌 Conectando o Bot ao WhatsApp
 
 <details>
@@ -140,8 +131,10 @@ npm start
 ```bash
 cd TOKIO-BOT
 git pull
-## 💻 Tutoriais de Instalação por Plataforma
 ```
+
+## 💻 Tutoriais de Instalação por Plataforma
+
 <details>
 <summary><strong>🖥️ Guia rápido por plataforma</strong></summary>
 
