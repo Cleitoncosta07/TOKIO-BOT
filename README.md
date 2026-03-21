@@ -1,6 +1,5 @@
 # TOKIO BOT
 
-cat << 'EOF'
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=ff0000&center=true&vCenter=true&lines=⚡+TOKIO+BOT+⚡;🔥+ULTRA+AUTOMAÇÃO+🔥;💀+WHATSAPP+HACKER+💀>
 
 <h1 align="center">
