@@ -10,7 +10,7 @@
 <a href="#"><img title="2026" src="https://img.shields.io/badge/2026-ffff00?style=for-the-badge"></a>
 </p>
 
-## 💀 TOKIO BOT - O BOT MAIS INSANO ⚡
+## 💀 TOKIO BOT ⚡
 **Criado por Cleiton Costa em 2026** - Anti-ban + Comandos exclusivos!
 
 > ⚠️ **Aviso Legal**: Projeto gratuito e protegido por direitos autorais.  
