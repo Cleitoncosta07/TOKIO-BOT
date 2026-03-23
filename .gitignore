@@ -1,2 +1,4 @@
-assets/auth/baileys
-.vscode
+node_modules/
+.env
+session/
+auth/
